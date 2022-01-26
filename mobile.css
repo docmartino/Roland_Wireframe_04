@@ -80,7 +80,7 @@
         margin-top: 100px;
     }
     .triangle {
-        background-image: url("/Day15_Website/CODE/images/banner/shape/shape-5.png");
+        background-image: url("/Day15_Website/CODE_W04/images/banner/shape/shape-5.png");
         height: 195px;
         background-repeat: no-repeat;
         margin: -195px -10px;
@@ -171,7 +171,7 @@
     /* PROJECT IN MIND ? */
     
     .mind {
-        background-image: url("/Day15_Website/CODE/images/call-to-action.jpg");
+        background-image: url("/Day15_Website/CODE_W04/images/call-to-action.jpg");
         position: relative;
         height: 600px;
         width: 100%;
@@ -205,7 +205,7 @@
     
     
     .image_works {
-        background-image: url("/Day15_Website/CODE/images/blog/b-1.jpg");
+        background-image: url("/Day15_Website/CODE_W04/images/blog/b-1.jpg");
         width: 370px;
         height: 360px;
         align-items: center;
